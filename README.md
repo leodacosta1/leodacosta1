@@ -1,20 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
 - 🌱 I’m currently learning C#
 <br>
 
-# From learn.microsoft.com
+## From learn.microsoft.com
 
+ 
 ### Ongoing: Create and run simple C# console applications
-![get started c sharp part 2](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg)  
+<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg" alt="get started c sharp part 2" width="90" />
 
 <br>
 
-## Recently completed modules:
+### Recently completed modules:
 
 
-### Call methods from the .NET Class Library using C#
-![Call methods from the .NET Class Library using C#](https://learn.microsoft.com/en-us/training/achievements/csharp-call-methods.svg)
+#### Call methods from the .NET Class Library using C#
+<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-call-methods.svg" alt="Call methods from the .NET Class Library using C#" width="80" />
 
-### Add decision logic to your code using `if`, `else`, and `else if` statements in C#
-![Add decision logic to your code using `if`, `else`, and `else if` statements in C#](https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg)
+#### Add decision logic to your code using `if`, `else`, and `else if` statements in C#
+<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg" alt="Add decision logic to your code using `if`, `else`, and `else if` statements in C#" width="80" />
