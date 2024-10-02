@@ -13,6 +13,8 @@
 
 ### Recently completed modules:
 
+#### Store and iterate through sequences of data using Arrays and the foreach statement in C#
+<img src="https://learn.microsoft.com/training/achievements/csharp-arrays.svg" alt="Store and iterate through sequences of data using Arrays and the foreach statement in C#" width="80" />
 
 #### Call methods from the .NET Class Library using C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-call-methods.svg" alt="Call methods from the .NET Class Library using C#" width="80" />
