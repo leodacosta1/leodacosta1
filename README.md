@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🌱 I’m currently learning C#
+<img src="https://c.tenor.com/wRDlhL1R064AAAAC/tenor.gif" alt="happy young obi wan kenobi" width="300"/>
 <br>
 
 ## From learn.microsoft.com
@@ -12,6 +13,9 @@
 <br>
 
 ### Recently completed modules:
+
+#### Create readable code with conventions, whitespace, and comments in C#
+<img src="https://learn.microsoft.com/training/achievements/csharp-readable-code.svg" alt="Create readable code with conventions, whitespace, and comments in C#" width="80" />
 
 #### Store and iterate through sequences of data using Arrays and the foreach statement in C#
 <img src="https://learn.microsoft.com/training/achievements/csharp-arrays.svg" alt="Store and iterate through sequences of data using Arrays and the foreach statement in C#" width="80" />
