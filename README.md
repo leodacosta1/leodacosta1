@@ -14,6 +14,9 @@
 
 ### Recently completed modules:
 
+#### Guided project - Develop foreach and if-elseif-else structures to process array data in C#
+<img src="https://learn.microsoft.com/training/achievements/guided-project-arrays-iteration-selection.svg" alt="Guided project - Develop foreach and if-elseif-else structures to process array data in C#" width="83" />
+
 #### Create readable code with conventions, whitespace, and comments in C#
 <img src="https://learn.microsoft.com/training/achievements/csharp-readable-code.svg" alt="Create readable code with conventions, whitespace, and comments in C#" width="80" />
 
