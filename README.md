@@ -7,12 +7,14 @@
 ## From learn.microsoft.com
 
  
-### Ongoing: Create and run simple C# console applications
-<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg" alt="get started c sharp part 2" width="90" />
-
+### Completed: Create and run simple C# console applications
+<img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg" alt="get started c sharp part 2" width="90" /> 
 <br>
 
 ### Recently completed modules:
+
+#### Challenge project - Develop foreach and if-elseif-else structures to process array data in C#
+<img src="https://learn.microsoft.com/training/achievements/challenge-project-arrays-iteration-selection.svg" alt="Challenge project - Develop foreach and if-elseif-else structures to process array data in C#" width="83" />
 
 #### Guided project - Develop foreach and if-elseif-else structures to process array data in C#
 <img src="https://learn.microsoft.com/training/achievements/guided-project-arrays-iteration-selection.svg" alt="Guided project - Develop foreach and if-elseif-else structures to process array data in C#" width="83" />
