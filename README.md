@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning C#
-<img src="https://c.tenor.com/wRDlhL1R064AAAAC/tenor.gif" alt="happy young obi wan kenobi" width="300"/>
+<img src="https://c.tenor.com/wRDlhL1R064AAAAC/tenor.gif" alt="happy young obi wan kenobi" width="230"/>
 <br>
 
 ## From learn.microsoft.com
