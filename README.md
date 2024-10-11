@@ -6,7 +6,16 @@
 
 ## From learn.microsoft.com
 
- 
+### Recently completed modules:
+
+#### Control variable scope and logic using code blocks in C#
+<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-code-blocks.svg" alt="Control variable scope and logic using code blocks in C#" width="83" />
+
+#### Evaluate Boolean expressions to make decisions in C#
+<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-evaluate-boolean-expressions.svg" alt="Evaluate Boolean expressions to make decisions in C#" width="83" />
+
+<br/>
+
 ### Completed paths:
 #### Create and run simple C# console applications (2/6)
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg" alt="get started c sharp part 2" width="90" /> 
