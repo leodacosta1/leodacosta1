@@ -8,6 +8,9 @@
 
 ### Recently completed modules:
 
+#### Branch the flow of code using the switch-case construct in C#
+<img src="https://learn.microsoft.com/training/achievements/csharp-switch-case.svg" alt="Branch the flow of code using the switch-case construct in C#" width="83" />
+
 #### Control variable scope and logic using code blocks in C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-code-blocks.svg" alt="Control variable scope and logic using code blocks in C#" width="83" />
 
