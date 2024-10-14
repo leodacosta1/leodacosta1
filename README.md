@@ -6,6 +6,10 @@
 ## learn.microsoft.com:
 
 ###  Módulos recentes:
+
+#### :white_check_mark: Iterate through a code block using for statement in C#
+<img src="https://learn.microsoft.com/training/achievements/csharp-for.svg" alt="Iterate through a code block using for statement in C#" width="83" />
+
 #### :white_check_mark: Branch the flow of code using the switch-case construct in C#
 <img src="https://learn.microsoft.com/training/achievements/csharp-switch-case.svg" alt="Branch the flow of code using the switch-case construct in C#" width="83" />
 
