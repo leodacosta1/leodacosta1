@@ -5,22 +5,22 @@
 
 ### learn.microsoft.com
 
-#### Branch the flow of code using the switch-case construct in C#
+#### :white_check_mark: Branch the flow of code using the switch-case construct in C#
 <img src="https://learn.microsoft.com/training/achievements/csharp-switch-case.svg" alt="Branch the flow of code using the switch-case construct in C#" width="83" />
 
-#### Control variable scope and logic using code blocks in C#
+#### :white_check_mark: Control variable scope and logic using code blocks in C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-code-blocks.svg" alt="Control variable scope and logic using code blocks in C#" width="83" />
 
-#### Evaluate Boolean expressions to make decisions in C#
+#### :white_check_mark: Evaluate Boolean expressions to make decisions in C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-evaluate-boolean-expressions.svg" alt="Evaluate Boolean expressions to make decisions in C#" width="83" />
 
 <br/>
 
 ###  Paths (2/6):
-#### Create and run simple C# console applications
+#### :white_check_mark: Create and run simple C# console applications
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg" alt="get started c sharp part 2" width="90" /> 
 
-#### Write your first code using C#
+#### :white_check_mark: Write your first code using C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" alt="get started c sharp part 1" width="90" /> 
 
 <!--
