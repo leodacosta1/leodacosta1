@@ -7,6 +7,9 @@
 
 ###  Módulos recentes:
 
+#### :white_check_mark: Add looping logic to your code using the do-while and while statements in C#
+<img src="https://learn.microsoft.com/training/achievements/csharp-do-while.svg" alt="Add looping logic to your code using the do-while and while statements in C#" width="83" />
+
 #### :white_check_mark: Iterate through a code block using for statement in C#
 <img src="https://learn.microsoft.com/training/achievements/csharp-for.svg" alt="Iterate through a code block using for statement in C#" width="83" />
 
@@ -15,9 +18,6 @@
 
 #### :white_check_mark: Control variable scope and logic using code blocks in C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/csharp-code-blocks.svg" alt="Control variable scope and logic using code blocks in C#" width="83" />
-
-#### :white_check_mark: Evaluate Boolean expressions to make decisions in C#
-<img src="https://learn.microsoft.com/en-us/training/achievements/csharp-evaluate-boolean-expressions.svg" alt="Evaluate Boolean expressions to make decisions in C#" width="83" />
 
 <br/>
 
