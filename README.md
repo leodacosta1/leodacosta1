@@ -1,6 +1,7 @@
 ## No momento estou aprendendo:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/130px-C_Sharp_Logo_2023.svg.png" alt="c# logo" width="100">
-<!--<img src="https://c.tenor.com/wRDlhL1R064AAAAC/tenor.gif" alt="happy young obi wan kenobi" width="230"/>-->
+
+<!--
 <br>
 
 ## learn.microsoft.com:
@@ -27,7 +28,7 @@
 
 #### :white_check_mark: Write your first code using C#
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg" alt="get started c sharp part 1" width="90" /> 
-
+-->
 <!--
 ### Recently completed modules:
 
