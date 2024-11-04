@@ -1,6 +1,5 @@
 ## No momento estou aprendendo:
 <img src="https://c.tenor.com/wRDlhL1R064AAAAC/tenor.gif" alt="happy young obi wan kenobi" width="300" align="right"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/130px-C_Sharp_Logo_2023.svg.png" alt="c# logo" width="100">
 
 <!--
 <br>
